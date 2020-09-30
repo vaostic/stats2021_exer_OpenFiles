@@ -13,6 +13,12 @@
 * This can also be done directly in RStudio
   * Create a new folder on your machine where you want to put this repository if you don't already have one you want to use.
   * Copy the Clone or Download path for this repository from GitHub.
+  * In RStudio - File - New Project... - Version Control - Git 
+  * Paste the URL in the Repository URL: field.
+  * Click Browse... and navigate to your folder.
+  * Click Create Project.
+  * Be patient. RStudio will clone the repository and create a new project.
+  * When it is complete you should see the files from the repository in the Files pane at the bottom left of the window.
 * This can also be done directly in VSCode
   * Create a new folder on your machine where you want to put this repository if you don't already have one you want to use.
   * Copy the Clone or Download path for this repository from GitHub.
@@ -29,6 +35,17 @@
   
 ## Push your updated file to your GitHub repository
 
+* This can be done in RStudio.
+  * Be patient as you complete these steps. RStudio can be a bit slow to respond.
+  * Click on the Git tab in the top right section of the window.
+  * You should see the files in your repository in the window.
+  * Click in the checkbox in the Staged column to stage the changes you made.
+  * Click on the Commit button. (Just above the Staged, Status, Path labels at the top of the pane.)
+  * A new window will open which is titled RStudio: Review Changes.
+  * Enter a commit message in the field on the right side of the window and click Commit.
+  * Another popup should come up while the commit it made. You can close it when it's done.
+  * Click the Push button on the top right of the window.
+  * Another popup should come up while the push is done. You can close it when it's done.
 * This can be done in VSCode.
   * In VSCode click on the Source Control button.
   * You should see the files that had changes. (Mine has the original file which shows an M next to it and a new file which says checkpoint in the name. You really only need to push the original file, but if you push both it shouldn't hurt anything.)
