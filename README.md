@@ -46,10 +46,16 @@
   * Another popup should come up while the commit it made. You can close it when it's done.
   * Click the Push button on the top right of the window.
   * Another popup should come up while the push is done. You can close it when it's done.
+  * If you check your GitHub repository, your new files or changes should be there.
 * This can be done in VSCode.
   * In VSCode click on the Source Control button.
   * You should see the files that had changes. (Mine has the original file which shows an M next to it and a new file which says checkpoint in the name. You really only need to push the original file, but if you push both it shouldn't hurt anything.)
   * Hover over the changed file. Click the + sign to stage the change.
   * Enter a commit message in the message field and click the checkmark to commit the change.
   * Click on the 3 dots for more actions and select Sync. This will push the updated file to your GitHub repository.
-  * Submit the link to your GitHub repository on Canvas.
+* You can also directly add files to your GitHub repository online.
+  * Navigate to your GitHub repository in a browser.
+  * Click on the Add File button. (It's right next to the Code button where you copy the URL for the repository when you clone it.)
+  * Drag the files to the window or browse for them.
+  * Remember to scroll to the bottom of the window and commit your changes or your file(s) won't be saved.
+* Submit the link to your GitHub repository on Canvas.
