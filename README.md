@@ -55,7 +55,7 @@
   * Click on the 3 dots for more actions and select Sync. This will push the updated file to your GitHub repository.
 * You can also directly add files to your GitHub repository online.
   * Navigate to your GitHub repository in a browser.
-  * Click on the Add File button. (It's right next to the Code button where you copy the URL for the repository when you clone it.)
+  * Click on the Add File button and select Upload Files. (It's right next to the Code button where you copy the URL for the repository when you clone it.)
   * Drag the files to the window or browse for them.
   * Remember to scroll to the bottom of the window and commit your changes or your file(s) won't be saved.
 * Submit the link to your GitHub repository on Canvas.
