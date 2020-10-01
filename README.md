@@ -29,11 +29,26 @@
 
 ## Follow along with this tutorial
 
-* Complete the tutorial at: https://www.youtube.com/watch?v=6tNS--WetLI&t=1297s
-* In the last 5 minutes the presenter has you add some code working with schedules. You don't need to do that part. Specifically it says to add code to import requests and import schedule. Stop there. Don't do that part.
+### RStudio part
+
+* In RStudio open the R markdown file (.Rmd) by clicking on it in the Files pane.
+* Complete the steps outlined in the assignment.
+* Create a markdown document by clicking the Knit button. Make sure the markdown file gets saved in the same folder as the R markdown file so it will get pushed back to your GitHub repository.
+
+### Jamovi part
+
+* Open Jamovi
+* Try opening each of the file types (.csv, .sav, .xlsx) in Jamovi.
+* The file menu looks like 3 horizontal lines at the top left of the Jamovi window.
+* File - Open - Browse
+* Navigate to your assignment folder where the files for this assignment are, select the file, and click Open.
+* Save one of the files you opened as a Jamovi file (.omv).
+* File - Save As - Browse
+* Navigate to your assignment folder where the files for this assignment are and click Save.
+* You should now have a .omv file in your assignment folder.
   
   
-## Push your updated file to your GitHub repository
+## Push your updated files to your GitHub repository
 
 * This can be done in RStudio.
   * Be patient as you complete these steps. RStudio can be a bit slow to respond.
