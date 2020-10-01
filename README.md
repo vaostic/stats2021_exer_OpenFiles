@@ -33,7 +33,7 @@
 
 * In RStudio open the R markdown file (.Rmd) by clicking on it in the Files pane.
 * Complete the steps outlined in the assignment.
-* Create a markdown document by clicking the Knit button. Make sure the markdown file gets saved in the same folder as the R markdown file so it will get pushed back to your GitHub repository.
+* Create a markdown (.md) document by clicking the Knit button. Make sure the markdown file gets saved in the same folder as the R markdown file so it will get pushed back to your GitHub repository.
 
 ### Jamovi part
 
