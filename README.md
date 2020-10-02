@@ -18,7 +18,7 @@
   * Click Browse... and navigate to your folder.
   * Click Create Project.
   * Be patient. RStudio will clone the repository and create a new project.
-  * When it is complete you should see the files from the repository in the Files pane at the bottom left of the window.
+  * When it is complete you should see the files from the repository in the Files pane at the bottom right of the window.
 * This can also be done directly in VSCode
   * Create a new folder on your machine where you want to put this repository if you don't already have one you want to use.
   * Copy the Clone or Download path for this repository from GitHub.
