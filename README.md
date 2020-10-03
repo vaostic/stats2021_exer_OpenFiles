@@ -32,7 +32,7 @@
 ### RStudio part
 
 * In RStudio open the R markdown file (.Rmd) by clicking on it in the Files pane.
-* Complete the steps outlined in the assignment.
+* Complete the steps outlined in the assignment. (See the assignment answer sheet file included in this repository.)
 * Create a markdown (.md) document by clicking the Knit button. Make sure the markdown file gets saved in the same folder as the R markdown file so it will get pushed back to your GitHub repository.
 
 ### Jamovi part
@@ -46,6 +46,7 @@
 * File - Save As - Browse
 * Navigate to your assignment folder where the files for this assignment are and click Save.
 * You should now have a .omv file in your assignment folder.
+* Complete the assignment using the cars dataset in Jamovi. (See the assignment answer sheet fle included with this repository.)
   
   
 ## Push your updated files to your GitHub repository
