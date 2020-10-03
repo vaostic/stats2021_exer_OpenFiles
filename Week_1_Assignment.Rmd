@@ -65,6 +65,16 @@ library(rio)
 savdataset <- rio::import(file.choose())
 ```
 
+## Datasets in R
+R has a number of data set included with it. One of those datasets is the cars dataset. Try executing the code chunk below by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+plot(cars)
+```
+
+Add a new code chunk below this line by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+
 ## Save your output.
 Save this assignment as a markdown file by following these steps:
 
