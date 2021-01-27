@@ -52,6 +52,7 @@
 ## Push your updated files to your GitHub repository
 
 * This can be done in RStudio.
+  * Here's a nice video a student found demonstrating this process. https://www.youtube.com/watch?v=kL6L2MNqPHg&feature=youtu.be 
   * Be patient as you complete these steps. RStudio can be a bit slow to respond.
   * Click on the Git tab in the top right section of the window.
   * You should see the files in your repository in the window.
