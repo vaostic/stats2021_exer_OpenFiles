@@ -1,4 +1,4 @@
-# Opening Files Tutorial
+# Opening Files Exercise
 
 ## Summary of steps to complete
 
