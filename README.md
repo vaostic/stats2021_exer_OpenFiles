@@ -76,3 +76,7 @@
   * Drag the files to the window or browse for them.
   * Remember to scroll to the bottom of the window and commit your changes or your file(s) won't be saved.
 * Submit the link to your GitHub repository on Canvas.
+
+## About the Answer Sheets
+
+* The answer sheets are for your convenience. I don't need them submitted to your repository. I've played around with the format a bit. The older version uses a side-by-side format. The newer format uses a full page width. Use whichever you prefer. They both say about the same thing. The answer sheets are written in Rich Text Format .rtf. It is a text file format which allows for some formatting. I've had some Mac users say it displays better if you convert it to a Word doc. Here is a video of someone describing some of the difference between a plain text file .txt and an .rtf file. (optional) https://www.youtube.com/watch?v=NNu9B1ExezI 
